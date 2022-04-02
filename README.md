@@ -1,8 +1,6 @@
-# ITC-first-assignment-html-css
+# ITC-html-css-project
 
-This is my first assignment given by ITC.
-
-The first assignment is to create a responsive webpage using only HTML and CSS. Follow the Figma design (see below). Your page should be responsive, which means it should look good on both a mobile device and desktop screens. To help you with this aspect of the assignment, the Figma design includes designs for mobile and desktop.
+The project is to create a responsive webpage using only HTML and CSS. Follow the Figma design (see below). Your page should be responsive, which means it should look good on both a mobile device and desktop screens. To help you with this aspect of the assignment, the Figma design includes designs for mobile and desktop.
 
 Your final product should look exactly as the design! You don't want the designers to yell at you for not following their design perfectly. We encourage you to write your own CSS. However, you can use Bootstrap for styling if you prefer.
 
